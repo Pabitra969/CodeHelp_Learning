@@ -11,6 +11,7 @@ int fun(int t) {
 }
 
 int main() {
+
 //    findSqrt();
     cout << fun(12);
 
