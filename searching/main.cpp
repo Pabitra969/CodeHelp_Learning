@@ -12,7 +12,7 @@ int fun(int t) {
 
 int main() {
 
-//    findSqrt();
+    findSqrt();
     cout << fun(12);
 
     return 0;
