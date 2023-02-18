@@ -33,8 +33,9 @@ int findSqrt() {
             // right search
             s = mid + 1;
         }
-        mid = s + (e-s)/2;
+        mid = s + (e - s) / 2;
     }
     cout << "Ans is -- " << ans << endl;
 //    return 0;
+    return 0;
 }
