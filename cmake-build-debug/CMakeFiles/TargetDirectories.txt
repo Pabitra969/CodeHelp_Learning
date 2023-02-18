@@ -1,0 +1,5 @@
+/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug/CMakeFiles/CodeHelp_Learning.dir
+/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug/CMakeFiles/CodeHelp_Learning_1.dir
+/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug/CMakeFiles/CodeHelp_Learning_2.dir
+/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir

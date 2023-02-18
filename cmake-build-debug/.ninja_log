@@ -1,0 +1,22 @@
+# ninja log v5
+9	1142	1675543454625885370	CMakeFiles/CodeHelp_Learning_1.dir/pattern.cpp.o	2c50413ebc67c6fd
+1	1343	1676652441682187296	CMakeFiles/CodeHelp_Learning.dir/patterns/main.cpp.o	3c7261e52f55a911
+1143	1247	1675543454736882574	CodeHelp_Learning_1	102d84eb3ce4bba0
+701	778	1676643111546011439	CodeHelp_Learning	935dbb9857621702
+5	777	1676655256477744078	CMakeFiles/main.dir/arrays/main.cpp.o	9142422e3ade3ec9
+677	774	1676708800242400612	CodeHelp_Learning_2	33dfe049c1da25b3
+777	860	1676655256563180925	main	98459d56e0e1da4c
+8	676	1676708800141308164	CMakeFiles/CodeHelp_Learning_2.dir/searching/main.cpp.o	8dd6e15d4898ada6
+1	141	1676709580048513729	build.ninja	4d1bb4251ee5d1ee
+5	700	1676643111466020703	CMakeFiles/CodeHelp_Learning.dir/main.cpp.o	397359a3fdf6fc87
+5	816	1676652821807561497	CMakeFiles/CodeHelp_Learning.dir/arrays/main.cpp.o	e9d74ec901491718
+8	691	1676711296154535114	CMakeFiles/CodeHelp_Learning_2.dir/searching/main.cpp.o	8dd6e15d4898ada6
+691	793	1676711296260389547	CodeHelp_Learning_2	33dfe049c1da25b3
+9	787	1676711701818606072	CMakeFiles/CodeHelp_Learning_2.dir/searching/main.cpp.o	8dd6e15d4898ada6
+788	881	1676711701915618482	CodeHelp_Learning_2	33dfe049c1da25b3
+5	765	1676711711169869404	CMakeFiles/CodeHelp_Learning_2.dir/searching/main.cpp.o	8dd6e15d4898ada6
+765	847	1676711711255451146	CodeHelp_Learning_2	33dfe049c1da25b3
+7	758	1676711734905556377	CMakeFiles/CodeHelp_Learning_2.dir/searching/main.cpp.o	8dd6e15d4898ada6
+759	858	1676711735007679864	CodeHelp_Learning_2	33dfe049c1da25b3
+6	733	1676711746605378904	CMakeFiles/CodeHelp_Learning_2.dir/searching/main.cpp.o	8dd6e15d4898ada6
+733	821	1676711746697415910	CodeHelp_Learning_2	33dfe049c1da25b3

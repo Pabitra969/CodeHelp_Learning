@@ -1,0 +1,4 @@
+"/Users/pabitra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/pabitra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S "/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning" -B "/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug
