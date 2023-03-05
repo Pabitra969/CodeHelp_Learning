@@ -1,4 +1,13 @@
 "/Users/pabitra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/pabitra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S "/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning" -B "/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug"
 -- Configuring done
--- Generating done
--- Build files have been written to: /Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug
+CMake Error at CMakeLists.txt:9 (add_executable):
+  Cannot find source file:
+
+    search
+
+
+CMake Error at CMakeLists.txt:9 (add_executable):
+  No SOURCES given to target: CodeHelp_Learning_3
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

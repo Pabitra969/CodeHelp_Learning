@@ -1,0 +1,13 @@
+//
+// Created by PABITRA KUMAR GHORAI on 19/02/23.
+//
+
+#ifndef CODEHELP_LEARNING_FINDODDONEINARRAY_H
+#define CODEHELP_LEARNING_FINDODDONEINARRAY_H
+
+#endif //CODEHELP_LEARNING_FINDODDONEINARRAY_H
+#include "iostream"
+
+int findOddOne (int arr[]) {
+
+}
