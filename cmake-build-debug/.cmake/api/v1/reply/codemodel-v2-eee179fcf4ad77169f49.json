@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CodeHelp_Learning",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CodeHelp_Learning::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CodeHelp_Learning-Debug-c4c6d2dfc12e81c410c9.json",
+					"name" : "CodeHelp_Learning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CodeHelp_Learning_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CodeHelp_Learning_1-Debug-538d9b1e15b5598bb585.json",
+					"name" : "CodeHelp_Learning_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CodeHelp_Learning_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CodeHelp_Learning_2-Debug-71e7950d517d6a52198c.json",
+					"name" : "CodeHelp_Learning_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning/cmake-build-debug",
+		"source" : "/Users/pabitra/Desktop/Clion C Coding/CodeHelp Learning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
